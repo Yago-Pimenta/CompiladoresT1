@@ -66,6 +66,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>br.ufscar.dc.compiladores.meu.lexico.MeuLexico</exec.mainClass>
+        <exec.mainClass>br.ufscar.dc.compiladores.meu.lexico.MeuLexer</exec.mainClass>
     </properties>
 </project>

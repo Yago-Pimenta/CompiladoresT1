@@ -1,4 +1,4 @@
-package br.ufscar.dc.compiladores.la.lexico;
+package br.ufscar.dc.compiladores.meu.lexico;
 
 import java.io.FileOutputStream;
 import java.nio.file.Files;
